@@ -1,0 +1,14 @@
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.exe
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.deps.json
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.runtimeconfig.json
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.runtimeconfig.dev.json
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.dll
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.pdb
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.csproj.AssemblyReference.cache
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.AssemblyInfo.cs
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.csproj.CoreCompileInputs.cache
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.dll
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.pdb
+C:\Users\kamra\source\repos\Product_Milk\Product_Milk\obj\Debug\netcoreapp3.1\Product_Milk.genruntimeconfig.cache

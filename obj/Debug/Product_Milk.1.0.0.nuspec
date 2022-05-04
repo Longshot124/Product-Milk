@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Product_Milk</id>
+    <version>1.0.0</version>
+    <authors>Product_Milk</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.runtimeconfig.json" target="lib\netcoreapp3.1\Product_Milk.runtimeconfig.json" />
+    <file src="C:\Users\kamra\source\repos\Product_Milk\Product_Milk\bin\Debug\netcoreapp3.1\Product_Milk.dll" target="lib\netcoreapp3.1\Product_Milk.dll" />
+  </files>
+</package>
